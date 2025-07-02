@@ -33,3 +33,6 @@ nav > h1 {
   font-size: 30px;
   color: green;
 }
+@media (max-width:1200px) {
+    
+}

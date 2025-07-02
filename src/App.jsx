@@ -1,6 +1,6 @@
 import './App.css'
 import Aboute from './components/Aboute'
-import Contact from './components/contact'
+import Contact from './components/Contact'
 import Home from './components/Home'
 import Levl from './components/Levl'
 import Project from './components/Projects'

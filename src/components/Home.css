@@ -75,4 +75,9 @@
 } 
 .img3:hover{
     transform: scale(1.2);
+    
 } 
+@media (max-width:1200px) {
+    
+}
+/* 1200 900 632 440 */
