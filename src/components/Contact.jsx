@@ -3,6 +3,7 @@ import img3 from "../assets/img3.png"
 function  Contact() {
     return(
         <div className="Contact" id="Contact">
+            <h1>Contact</h1>
             <div className="Contact-inputs">
                 <p>If you have any questions, please do not hesitate to contact me. I am open to any job opportunities that match my skills and interests.</p>
                 <h3>Your Name:</h3>

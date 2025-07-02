@@ -10,6 +10,10 @@
     align-items: center;
     gap: 50px;
 }
+.AbouteB{
+    background: rgb(0, 8, 35);
+
+}
 .Aboute-text>h2{
     font-size: 30px;
     color: aqua;
@@ -37,4 +41,36 @@
 .Aboute-img {
     animation: boy 1.5s ease-in-out infinite;
 
+}
+@media (max-width:1200px){
+    .Aboute{
+        display: block;
+        text-align: center;
+    }
+    .Aboute-text>p{
+        margin-bottom: 50px;
+    }
+}
+@media (max-width:900px) {
+    .AbouteB{
+        padding-top: 50px;
+    }
+}
+@media (max-width:632px){
+        .Aboute{
+        display: block;
+        text-align: center;
+        padding: 0;
+    }
+        .Aboute-text>p{
+            font-size: 20px;
+        }
+}
+@media (max-width:440px){
+            .Aboute-text>p{
+            font-size: 15px;
+        }
+        .Aboute-img>img{
+            width: 430px;
+        }
 }

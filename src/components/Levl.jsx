@@ -17,13 +17,13 @@ function Levl() {
             <div>
                      <div data-aos="fade-down-right">
                             <h2>100% HTML</h2>
-                            <div className="htnlb">
+                            <div className="htnlb lev">
                                 <div className="html"></div>
                              </div>
                      </div>
                     <div data-aos="fade-up-right">
                             <h2>95% CSS</h2>
-                        <div className="cssb">
+                        <div className="cssb lev">
                             <div className="css"></div>
                         </div>
                     </div>
@@ -31,14 +31,14 @@ function Levl() {
                 <div>
                         <div data-aos="fade-down-left">
                              <h2>85% JAVASCRIPT</h2>
-                        <div className="javascriptb">
+                        <div className="javascriptb lev">
                             <div className="javascript"></div>
                         </div>
                          </div>
 
                          <div data-aos="fade-up-left">
                              <h2>85% REACT</h2>
-                         <div className="reactb">
+                         <div className="reactb lev">
                              <div className="react"></div>
                         </div>
                          </div>

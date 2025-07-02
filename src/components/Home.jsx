@@ -28,7 +28,7 @@ function Home() {
 
             </div>
                 <div className="boy"> 
-            <img src={img1} alt="" />
+                    <img src={img1} alt="" />
                 </div>
         </div>
         </div>
