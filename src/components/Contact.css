@@ -1,0 +1,54 @@
+.Contact{
+    width: 100%;
+    height: 100vh;
+    background: rgb(0, 8, 35);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px;
+}
+.Contact-inputs{
+    width: 50%;
+    height: 100vh;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.Contact-inputs>input,textarea{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background: none;
+    border: 1px solid gray;
+    color: white;
+}
+.Contact-inputs>textarea{
+    width: 100%;
+    height: 100px;
+}
+.Contact-inputs>p{
+    margin: 12px 0;
+}
+.Contact-inputs>h3{
+    margin-top: 50px;
+}
+.Contact-inputs>button{
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 20px 40px;
+    font-size: 18px;
+    border-radius: 30px;
+    color: black;
+    background-color: aqua;
+}
+.Contacts>h2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.Contacts img{
+    transition: 0.5s;
+}
+.Contacts img:hover{
+    transform: scale(1.1);
+}

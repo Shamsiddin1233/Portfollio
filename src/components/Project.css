@@ -1,0 +1,87 @@
+.Project{
+    width: 100%;
+    height: 150vh;
+    color: white;
+    background: rgb(0, 8, 35);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.Pb{
+    background: rgb(0, 8, 35);
+
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.projects{
+    width: 500px;
+    height: 350px;
+    border: 3px solid white;
+    margin-top: 50px;
+    border-radius:15px ;
+    transition: 1s;
+}
+.projects>p{
+    font-size: 25px;
+    text-align: center;
+    color: aqua;
+    margin-top: 100px;
+}
+.project1>p{
+    color: greenyellow;
+}
+.project2>p{
+    color: gold;
+}
+.project3>p{
+    color: red;
+}
+.project1 button{
+    padding: 10px 50px;
+    font-size: 18px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 50px;
+    color: black;
+    background: greenyellow;
+    cursor: pointer;
+
+}
+.project3 button{
+    padding: 10px 60px;
+    font-size: 18px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 100px;
+        color: white;
+    background: red;
+    cursor: pointer;
+
+}
+.project2 button{
+    padding: 10px 60px;
+    font-size: 18px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 100px;
+    color: black;
+    background: gold;
+    cursor: pointer;
+
+}
+.project4 button{
+    padding: 10px 60px;
+    font-size: 18px;
+    border:none;
+    border-radius: 10px;
+    margin-top: 70px;
+        color: black;
+    background: aqua;
+    cursor: pointer;
+
+}
+.projects:hover{
+    transform: scale(1.1);
+
+}

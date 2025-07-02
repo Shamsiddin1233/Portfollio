@@ -1,0 +1,40 @@
+.Aboute{
+    width: 100%;
+    height: 700px;
+    background: rgb(0, 8, 35);
+
+    color: white;
+    padding: 10px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.Aboute-text>h2{
+    font-size: 30px;
+    color: aqua;
+    margin: 10px 0;
+}
+.Aboute-text>p{
+    font-size: 25px;
+    color: wheat;
+}
+.Aboute img{
+    width: 600px;
+        border: 2px solid white;
+    border-radius: 50px;
+}
+
+@keyframes Aboute-img {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+.Aboute-img {
+    animation: boy 1.5s ease-in-out infinite;
+
+}

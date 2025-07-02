@@ -1,0 +1,39 @@
+.Scills{
+    width: 100%;
+    height: 200px;
+    background: rgb(0, 8, 35);
+
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.s-img{
+    width: 110px;
+    height: 100px;
+}
+
+@keyframes scll-img1 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.scll-img1{
+    animation: scll-img1 3s linear infinite;
+
+}
+
+@keyframes scll-img2 {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+.scll-img2 {
+    animation: scll-img2 1s ease-in-out infinite;
+}
