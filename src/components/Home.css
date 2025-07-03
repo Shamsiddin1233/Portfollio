@@ -114,12 +114,12 @@
       background: url("../assets/img2.png");
       background-repeat: no-repeat;
       background-size: cover;
+      padding: 0 30px;
       
     }
 
     .Home{
-        padding: 50px 100px;
-        padding-top: 50px;
+        padding: 50px  100px;
     }
     .Home-text>h1{
         font-size: 40px;
