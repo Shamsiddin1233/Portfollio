@@ -15,7 +15,7 @@
     border-radius: 10px;
 
 }
-.Contact-inputs>input,textarea{
+.Contact-inputs input,textarea{
     width: 100%;
     height: 50px;
     border-radius: 5px;
@@ -23,17 +23,17 @@
     border: 1px solid gray;
     color: white;
 }
-.Contact-inputs>textarea{
+.Contact-inputs textarea{
     width: 100%;
     height: 100px;
 }
-.Contact-inputs>p{
+.Contact-inputs p{
     margin: 12px 0;
 }
-.Contact-inputs>h3{
+.Contact-inputs h3{
     margin-top: 50px;
 }
-.Contact-inputs>button{
+.Contact-inputs button{
     margin-top: 50px;
     margin-left: 150px;
     padding: 20px 40px;

@@ -13,7 +13,7 @@ function Project(){
 
             <div>
                             <div className="project1 projects">
-                <p>I am currently working on this website. I would say this is an exam for our certification. We were given a month and a half to submit this website.</p>
+                <p >I am currently working on this website. I would say this is an exam for our certification. We were given a month and a half to submit this website.</p>
             <a href="https://aquamarine-kheer-0283ed.netlify.app" target="_blank"><button>Olch</button></a> 
                 
             </div>

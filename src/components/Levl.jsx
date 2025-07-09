@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 function Levl() {
       useEffect(() => {
-    AOS.init({ duration: 2000 });
+    AOS.init({ duration: 2000 });    
   });
     return(
         <div className="LevlB" id="Level">

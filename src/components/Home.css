@@ -46,7 +46,7 @@
     animation: boy 1.5s ease-in-out infinite;
 }
 .icons{
-    width: 100%;
+    width: 1  00%;
     height: 100px;
     display: flex;
     gap: 30px;
@@ -57,7 +57,7 @@
     height: 50px;
     transition: 0.5s;
 }
-.img2{
+.img2{ 
     width: 55x;
     height: 55px;
     transition: 0.5s;
